@@ -1,0 +1,32 @@
+.produto {
+    background-color: green;
+    
+}
+
+/* 
+Comentario didático
+
+jeito 1 
+.produto span {
+    font-size: 24px;
+    color: blue;
+
+    A baixo jeito 2, 
+    nesse jeito damos class dentro do span: 
+    no casso o nome do span é (destaque)
+} */
+html{
+    background-color: black;
+    color: aliceblue;
+}
+.destaque {
+    font-size: 24px;
+    color: yellow;
+}
+
+h1{
+     border: 20px solid;
+     border-color: blue yellow beige green;
+     padding: 20px;
+    
+}
